@@ -1,0 +1,18 @@
+2018-06-28 06:57:14,290 main INFO  books2.BookStore (BookStore.java:94) - 2018-06-28T13:57:14.288377Z
+2018-06-28 06:57:14,299 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-06-28 06:57:14,653 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:57:14,654 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-06-28 06:57:14,654 main INFO  database.Database (Database.java:65) - Running
+2018-06-28 06:57:14,654 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-06-28 06:57:14,743 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:57:15,187 main INFO  books2.BookStore (BookStore.java:106) - 2018-06-28T13:57:15.187490800Z
+2018-06-28 06:57:15,188 main INFO  books2.BookStore (BookStore.java:107) - Duration: 899 ms
+2018-06-28 06:57:19,839 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2018-06-28 06:57:21,395 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:203) - Total of purchases
+2018-06-28 06:57:24,429 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:260) - Filter by Customer ID
+2018-06-28 06:57:27,697 AWT-EventQueue-0 DEBUG ui.FilterByCustomerId (FilterByCustomerId.java:88) - Valid input
+2018-06-28 06:57:30,105 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:203) - Total of purchases
+2018-06-28 06:57:36,247 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:260) - Filter by Customer ID
+2018-06-28 06:57:38,858 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:203) - Total of purchases
+2018-06-28 06:57:40,355 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-06-28 06:57:40,356 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped

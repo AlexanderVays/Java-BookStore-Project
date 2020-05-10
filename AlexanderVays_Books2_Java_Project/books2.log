@@ -1,0 +1,277 @@
+2018-06-28 06:51:51,312 main INFO  books2.BookStore (BookStore.java:94) - 2018-06-28T13:51:51.297303600Z
+2018-06-28 06:51:51,312 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-06-28 06:51:51,890 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:51:51,890 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-06-28 06:51:51,896 main INFO  database.Database (Database.java:65) - Running
+2018-06-28 06:51:51,896 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-06-28 06:51:51,976 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:51:52,461 main INFO  books2.BookStore (BookStore.java:106) - 2018-06-28T13:51:52.461115Z
+2018-06-28 06:51:52,461 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1163 ms
+2018-06-28 06:51:55,575 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2018-06-28 06:52:00,680 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2018-06-28 06:52:08,021 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2018-06-28 06:52:13,142 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2018-06-28 06:52:22,016 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2018-06-28 06:52:31,662 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-06-28 06:52:31,673 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:87) - Books2 has stopped
+2018-06-28 06:55:54,934 main INFO  books2.BookStore (BookStore.java:94) - 2018-06-28T13:55:54.932915700Z
+2018-06-28 06:55:54,945 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-06-28 06:55:55,366 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:55:55,366 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-06-28 06:55:55,366 main INFO  database.Database (Database.java:65) - Running
+2018-06-28 06:55:55,366 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-06-28 06:55:55,455 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:55:55,910 main INFO  books2.BookStore (BookStore.java:106) - 2018-06-28T13:55:55.910338700Z
+2018-06-28 06:55:55,911 main INFO  books2.BookStore (BookStore.java:107) - Duration: 977 ms
+2018-06-28 06:55:57,888 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-06-28 06:55:57,889 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2018-06-28 06:56:00,210 main INFO  books2.BookStore (BookStore.java:94) - 2018-06-28T13:56:00.207550100Z
+2018-06-28 06:56:00,219 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-06-28 06:56:00,606 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:56:00,606 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-06-28 06:56:00,606 main INFO  database.Database (Database.java:65) - Running
+2018-06-28 06:56:00,606 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-06-28 06:56:00,691 main INFO  database.Database (Database.java:55) - Database connected
+2018-06-28 06:56:01,142 main INFO  books2.BookStore (BookStore.java:106) - 2018-06-28T13:56:01.142456700Z
+2018-06-28 06:56:01,143 main INFO  books2.BookStore (BookStore.java:107) - Duration: 934 ms
+2018-06-28 06:56:03,623 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2018-06-28 06:56:06,716 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:260) - Filter by Customer ID
+2018-06-28 06:56:13,037 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-06-28 06:56:13,038 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2018-07-05 18:46:22,923 main INFO  books2.BookStore (BookStore.java:94) - 2018-07-06T01:46:22.921927700Z
+2018-07-05 18:46:22,950 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-07-05 18:46:23,339 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 18:46:23,340 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-07-05 18:46:23,340 main INFO  database.Database (Database.java:65) - Running
+2018-07-05 18:46:23,340 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-07-05 18:46:23,418 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 18:46:24,004 main INFO  books2.BookStore (BookStore.java:106) - 2018-07-06T01:46:24.004700800Z
+2018-07-05 18:46:24,004 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1082 ms
+2018-07-05 18:46:30,998 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2018-07-05 18:46:35,579 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-07-05 18:46:35,580 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2018-07-05 21:25:33,517 main INFO  books2.BookStore (BookStore.java:94) - 2018-07-06T04:25:33.514432200Z
+2018-07-05 21:25:33,526 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-07-05 21:25:34,012 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 21:25:34,012 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-07-05 21:25:34,012 main INFO  database.Database (Database.java:65) - Running
+2018-07-05 21:25:34,012 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-07-05 21:25:34,105 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 21:25:34,597 main INFO  books2.BookStore (BookStore.java:106) - 2018-07-06T04:25:34.597304500Z
+2018-07-05 21:25:34,597 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1082 ms
+2018-07-05 21:25:41,847 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2018-07-05 21:25:44,161 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-07-05 21:25:44,162 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2018-07-05 21:45:04,509 main INFO  books2.BookStore (BookStore.java:94) - 2018-07-06T04:45:04.506232400Z
+2018-07-05 21:45:04,518 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-07-05 21:45:04,904 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 21:45:04,904 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-07-05 21:45:04,904 main INFO  database.Database (Database.java:65) - Running
+2018-07-05 21:45:04,904 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-07-05 21:45:04,996 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 21:45:05,501 main INFO  books2.BookStore (BookStore.java:106) - 2018-07-06T04:45:05.501263500Z
+2018-07-05 21:45:05,502 main INFO  books2.BookStore (BookStore.java:107) - Duration: 995 ms
+2018-07-05 21:45:07,885 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-07-05 21:45:07,886 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2018-07-05 22:33:10,632 main INFO  books2.BookStore (BookStore.java:94) - 2018-07-06T05:33:10.630429500Z
+2018-07-05 22:33:10,641 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-07-05 22:33:11,223 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 22:33:11,223 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-07-05 22:33:11,223 main INFO  database.Database (Database.java:65) - Running
+2018-07-05 22:33:11,223 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-07-05 22:33:11,319 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-05 22:33:11,798 main INFO  books2.BookStore (BookStore.java:106) - 2018-07-06T05:33:11.798271100Z
+2018-07-05 22:33:11,798 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1167 ms
+2018-07-05 22:33:17,409 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2018-07-05 22:33:20,975 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2018-07-05 22:33:31,409 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:98) - Books count
+2018-07-05 22:33:34,328 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:157) - Customers count
+2018-07-05 22:33:36,578 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:203) - Total of purchases
+2018-07-05 22:33:38,376 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-07-05 22:33:38,376 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2018-07-06 11:05:40,000 main INFO  books2.BookStore (BookStore.java:94) - 2018-07-06T18:05:39.997923500Z
+2018-07-06 11:05:40,009 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-07-06 11:05:40,452 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-06 11:05:40,453 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-07-06 11:05:40,453 main INFO  database.Database (Database.java:65) - Running
+2018-07-06 11:05:40,453 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-07-06 11:05:40,552 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-06 11:05:40,751 main DEBUG io.CustomerReader (CustomerReader.java:49) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\customers.dat
+2018-07-06 11:05:42,383 main DEBUG io.BookReader (BookReader.java:34) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\books500.csv
+2018-07-06 11:05:49,917 main DEBUG io.PurchaseReader (PurchaseReader.java:32) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\purchases.csv
+2018-07-06 11:05:51,735 main INFO  books2.BookStore (BookStore.java:106) - 2018-07-06T18:05:51.735930500Z
+2018-07-06 11:05:51,736 main INFO  books2.BookStore (BookStore.java:107) - Duration: 11738 ms
+2018-07-06 11:05:58,179 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-07-06 11:05:58,180 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2018-07-06 11:06:53,563 main INFO  books2.BookStore (BookStore.java:94) - 2018-07-06T18:06:53.561432900Z
+2018-07-06 11:06:53,572 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2018-07-06 11:06:54,274 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-06 11:06:54,274 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2018-07-06 11:06:54,274 main INFO  database.Database (Database.java:65) - Running
+2018-07-06 11:06:54,274 main INFO  database.Database (Database.java:67) - Driver loaded
+2018-07-06 11:06:54,362 main INFO  database.Database (Database.java:55) - Database connected
+2018-07-06 11:06:54,861 main INFO  books2.BookStore (BookStore.java:106) - 2018-07-06T18:06:54.861505600Z
+2018-07-06 11:06:54,861 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1300 ms
+2018-07-06 11:07:12,336 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2018-07-06 11:07:23,046 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:187) - List of the customers
+2018-07-06 11:07:29,043 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:187) - List of the customers
+2018-07-06 11:07:37,397 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:187) - List of the customers
+2018-07-06 11:07:59,971 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2018-07-06 11:07:59,972 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2019-10-25 20:41:30,141 main INFO  books2.BookStore (BookStore.java:94) - 2019-10-26T03:41:30.139290400Z
+2019-10-25 20:41:30,152 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2019-10-25 20:41:30,733 main INFO  database.Database (Database.java:55) - Database connected
+2019-10-25 20:41:30,733 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2019-10-25 20:41:30,734 main INFO  database.Database (Database.java:65) - Running
+2019-10-25 20:41:30,734 main INFO  database.Database (Database.java:67) - Driver loaded
+2019-10-25 20:41:30,814 main INFO  database.Database (Database.java:55) - Database connected
+2019-10-25 20:41:31,575 main INFO  books2.BookStore (BookStore.java:106) - 2019-10-26T03:41:31.575056300Z
+2019-10-25 20:41:31,575 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1435 ms
+2019-10-25 20:41:39,319 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:98) - Books count
+2019-10-25 20:41:44,250 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2019-10-25 20:41:56,984 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2019-10-25 20:42:11,543 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:187) - List of the customers
+2019-10-25 20:42:19,188 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2019-10-25 20:42:46,947 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:260) - Filter by Customer ID
+2019-10-25 20:42:51,620 AWT-EventQueue-0 ERROR ui.FilterByCustomerId (FilterByCustomerId.java:97) - input is not a number: For input string: "?643??47?54?7?5"
+2019-10-25 20:43:04,020 AWT-EventQueue-0 DEBUG ui.FilterByCustomerId (FilterByCustomerId.java:88) - Valid input
+2019-10-25 20:43:04,036 AWT-EventQueue-0 ERROR ui.FilterByCustomerId (FilterByCustomerId.java:104) - No Customer found in database with entered Customer ID 132534364
+2019-10-25 20:43:22,496 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:157) - Customers count
+2019-10-25 20:43:25,802 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:203) - Total of purchases
+2019-10-25 20:43:33,698 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2019-10-25 20:44:30,576 AWT-EventQueue-0 DEBUG ui.DropDialog (DropDialog.java:70) - Dropping the tables from database if exist
+2019-10-25 20:44:30,909 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Customer_A01038582
+2019-10-25 20:44:31,511 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Book_A01038582
+2019-10-25 20:44:31,799 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Purchase_A01038582
+2019-10-25 20:44:31,800 AWT-EventQueue-0 INFO  ui.DropDialog (DropDialog.java:82) - Books2 has stopped
+2019-10-25 20:44:42,435 main INFO  books2.BookStore (BookStore.java:94) - 2019-10-26T03:44:42.432067200Z
+2019-10-25 20:44:42,446 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2019-10-25 20:44:43,005 main INFO  database.Database (Database.java:55) - Database connected
+2019-10-25 20:44:43,006 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2019-10-25 20:44:43,006 main INFO  database.Database (Database.java:65) - Running
+2019-10-25 20:44:43,006 main INFO  database.Database (Database.java:67) - Driver loaded
+2019-10-25 20:44:43,085 main INFO  database.Database (Database.java:55) - Database connected
+2019-10-25 20:44:43,346 main DEBUG io.CustomerReader (CustomerReader.java:49) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\customers.dat
+2019-10-25 20:44:44,733 main DEBUG io.BookReader (BookReader.java:34) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\books500.csv
+2019-10-25 20:44:50,809 main DEBUG io.PurchaseReader (PurchaseReader.java:32) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\purchases.csv
+2019-10-25 20:44:52,307 main INFO  books2.BookStore (BookStore.java:106) - 2019-10-26T03:44:52.307108600Z
+2019-10-25 20:44:52,308 main INFO  books2.BookStore (BookStore.java:107) - Duration: 9875 ms
+2019-10-25 20:53:50,599 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2019-10-25 20:53:50,600 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2020-01-24 15:47:06,078 main INFO  books2.BookStore (BookStore.java:94) - 2020-01-24T23:47:06.075229700Z
+2020-01-24 15:47:06,092 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-01-24 15:47:06,871 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 15:47:06,872 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-01-24 15:47:06,872 main INFO  database.Database (Database.java:65) - Running
+2020-01-24 15:47:06,872 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-01-24 15:47:06,968 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 15:47:07,778 main INFO  books2.BookStore (BookStore.java:106) - 2020-01-24T23:47:07.778992400Z
+2020-01-24 15:47:07,779 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1703 ms
+2020-01-24 15:47:19,224 AWT-EventQueue-0 DEBUG ui.DropDialog (DropDialog.java:70) - Dropping the tables from database if exist
+2020-01-24 15:47:19,444 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Customer_A01038582
+2020-01-24 15:47:19,733 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Book_A01038582
+2020-01-24 15:47:20,013 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Purchase_A01038582
+2020-01-24 15:47:20,014 AWT-EventQueue-0 INFO  ui.DropDialog (DropDialog.java:82) - Books2 has stopped
+2020-01-24 15:47:39,652 main INFO  books2.BookStore (BookStore.java:94) - 2020-01-24T23:47:39.648496800Z
+2020-01-24 15:47:39,665 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-01-24 15:47:40,301 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 15:47:40,301 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-01-24 15:47:40,302 main INFO  database.Database (Database.java:65) - Running
+2020-01-24 15:47:40,302 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-01-24 15:47:40,392 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 15:47:40,717 main DEBUG io.CustomerReader (CustomerReader.java:49) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\customers.dat
+2020-01-24 15:47:42,164 main DEBUG io.BookReader (BookReader.java:34) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\books500.csv
+2020-01-24 15:47:48,537 main DEBUG io.PurchaseReader (PurchaseReader.java:32) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\purchases.csv
+2020-01-24 15:47:50,098 main INFO  books2.BookStore (BookStore.java:106) - 2020-01-24T23:47:50.098547Z
+2020-01-24 15:47:50,099 main INFO  books2.BookStore (BookStore.java:107) - Duration: 10450 ms
+2020-01-24 15:47:53,232 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:98) - Books count
+2020-01-24 15:47:58,148 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2020-01-24 15:48:07,455 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:260) - Filter by Customer ID
+2020-01-24 15:48:12,903 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2020-01-24 15:48:22,498 AWT-EventQueue-0 DEBUG ui.DropDialog (DropDialog.java:70) - Dropping the tables from database if exist
+2020-01-24 15:48:22,765 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Customer_A01038582
+2020-01-24 15:48:23,043 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Book_A01038582
+2020-01-24 15:48:23,331 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Purchase_A01038582
+2020-01-24 15:48:23,331 AWT-EventQueue-0 INFO  ui.DropDialog (DropDialog.java:82) - Books2 has stopped
+2020-01-24 15:51:58,952 main INFO  books2.BookStore (BookStore.java:94) - 2020-01-24T23:51:58.948240900Z
+2020-01-24 15:51:58,964 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-01-24 15:51:59,911 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 15:51:59,918 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-01-24 15:51:59,919 main INFO  database.Database (Database.java:65) - Running
+2020-01-24 15:51:59,919 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-01-24 15:52:00,008 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 15:52:00,324 main DEBUG io.CustomerReader (CustomerReader.java:49) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\customers.dat
+2020-01-24 15:52:01,737 main DEBUG io.BookReader (BookReader.java:34) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\books500.csv
+2020-01-24 15:52:08,063 main DEBUG io.PurchaseReader (PurchaseReader.java:32) - Reading D:\Studying\BCIT\Term 3\COMP2613\Workspace_BCIT\A01038582Books2\purchases.csv
+2020-01-24 15:52:09,570 main INFO  books2.BookStore (BookStore.java:106) - 2020-01-24T23:52:09.570784500Z
+2020-01-24 15:52:09,571 main INFO  books2.BookStore (BookStore.java:107) - Duration: 10622 ms
+2020-01-24 15:52:12,908 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2020-01-24 15:52:12,909 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2020-01-24 19:32:54,419 main INFO  books2.BookStore (BookStore.java:94) - 2020-01-25T03:32:54.416068500Z
+2020-01-24 19:32:54,429 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-01-24 19:32:55,018 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 19:32:55,018 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-01-24 19:32:55,018 main INFO  database.Database (Database.java:65) - Running
+2020-01-24 19:32:55,018 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-01-24 19:32:55,100 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 19:32:55,668 main INFO  books2.BookStore (BookStore.java:106) - 2020-01-25T03:32:55.668858Z
+2020-01-24 19:32:55,669 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1252 ms
+2020-01-24 19:32:58,327 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2020-01-24 19:32:58,328 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2020-01-24 19:33:30,367 main INFO  books2.BookStore (BookStore.java:94) - 2020-01-25T03:33:30.364895100Z
+2020-01-24 19:33:30,376 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-01-24 19:33:30,947 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 19:33:30,948 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-01-24 19:33:30,948 main INFO  database.Database (Database.java:65) - Running
+2020-01-24 19:33:30,948 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-01-24 19:33:31,028 main INFO  database.Database (Database.java:55) - Database connected
+2020-01-24 19:33:31,574 main INFO  books2.BookStore (BookStore.java:106) - 2020-01-25T03:33:31.574531100Z
+2020-01-24 19:33:31,574 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1209 ms
+2020-01-24 19:33:33,066 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2020-01-24 19:33:33,068 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2020-05-10 14:03:23,632 main INFO  books2.BookStore (BookStore.java:94) - 2020-05-10T21:03:23.630881200Z
+2020-05-10 14:03:23,643 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-05-10 14:03:24,323 main INFO  database.Database (Database.java:55) - Database connected
+2020-05-10 14:03:24,324 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-05-10 14:03:24,324 main INFO  database.Database (Database.java:65) - Running
+2020-05-10 14:03:24,324 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-05-10 14:03:24,410 main INFO  database.Database (Database.java:55) - Database connected
+2020-05-10 14:03:24,634 main DEBUG io.CustomerReader (CustomerReader.java:49) - Reading D:\GitRepos\Java-Project-BCIT\A01038582Books2\customers.dat
+2020-05-10 14:03:26,057 main DEBUG io.BookReader (BookReader.java:34) - Reading D:\GitRepos\Java-Project-BCIT\A01038582Books2\books500.csv
+2020-05-10 14:03:32,619 main DEBUG io.PurchaseReader (PurchaseReader.java:32) - Reading D:\GitRepos\Java-Project-BCIT\A01038582Books2\purchases.csv
+2020-05-10 14:03:34,304 main INFO  books2.BookStore (BookStore.java:106) - 2020-05-10T21:03:34.304754500Z
+2020-05-10 14:03:34,304 main INFO  books2.BookStore (BookStore.java:107) - Duration: 10673 ms
+2020-05-10 14:03:41,296 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:187) - List of the customers
+2020-05-10 14:03:48,220 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2020-05-10 14:03:48,221 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:305) - Books2 has stopped
+2020-05-10 14:05:20,093 main INFO  books2.BookStore (BookStore.java:94) - 2020-05-10T21:05:20.090062200Z
+2020-05-10 14:05:20,103 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-05-10 14:05:20,772 main INFO  database.Database (Database.java:55) - Database connected
+2020-05-10 14:05:20,772 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-05-10 14:05:20,772 main INFO  database.Database (Database.java:65) - Running
+2020-05-10 14:05:20,772 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-05-10 14:05:20,863 main INFO  database.Database (Database.java:55) - Database connected
+2020-05-10 14:05:21,390 main INFO  books2.BookStore (BookStore.java:106) - 2020-05-10T21:05:21.390229700Z
+2020-05-10 14:05:21,390 main INFO  books2.BookStore (BookStore.java:107) - Duration: 1300 ms
+2020-05-10 14:05:28,658 AWT-EventQueue-0 DEBUG ui.DropDialog (DropDialog.java:70) - Dropping the tables from database if exist
+2020-05-10 14:05:28,768 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Customer_A01038582
+2020-05-10 14:05:28,857 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Book_A01038582
+2020-05-10 14:05:28,945 AWT-EventQueue-0 DEBUG database.Database (Database.java:120) - drop table Purchase_A01038582
+2020-05-10 14:05:28,946 AWT-EventQueue-0 INFO  ui.DropDialog (DropDialog.java:82) - Books2 has stopped
+2020-05-10 14:05:58,171 main INFO  books2.BookStore (BookStore.java:94) - 2020-05-10T21:05:58.167111100Z
+2020-05-10 14:05:58,181 main DEBUG database.Database (Database.java:60) - Loading database properties from db.properties
+2020-05-10 14:05:58,872 main INFO  database.Database (Database.java:55) - Database connected
+2020-05-10 14:05:58,872 main DEBUG books2.BookStore (BookStore.java:111) - run()
+2020-05-10 14:05:58,872 main INFO  database.Database (Database.java:65) - Running
+2020-05-10 14:05:58,873 main INFO  database.Database (Database.java:67) - Driver loaded
+2020-05-10 14:05:58,964 main INFO  database.Database (Database.java:55) - Database connected
+2020-05-10 14:05:59,148 main DEBUG io.CustomerReader (CustomerReader.java:49) - Reading D:\GitRepos\Java-Project-BCIT\AlexanderVays_Books2_Java_Project\customers.dat
+2020-05-10 14:06:00,539 main DEBUG io.BookReader (BookReader.java:34) - Reading D:\GitRepos\Java-Project-BCIT\AlexanderVays_Books2_Java_Project\books500.csv
+2020-05-10 14:06:07,296 main DEBUG io.PurchaseReader (PurchaseReader.java:32) - Reading D:\GitRepos\Java-Project-BCIT\AlexanderVays_Books2_Java_Project\purchases.csv
+2020-05-10 14:06:08,877 main INFO  books2.BookStore (BookStore.java:106) - 2020-05-10T21:06:08.877368800Z
+2020-05-10 14:06:08,877 main INFO  books2.BookStore (BookStore.java:107) - Duration: 10710 ms
+2020-05-10 14:06:13,279 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:276) - List the purchases
+2020-05-10 14:06:41,626 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:141) - List of the books
+2020-05-10 14:06:47,175 AWT-EventQueue-0 DEBUG ui.MainFrame (MainFrame.java:157) - Customers count
+2020-05-10 14:06:54,256 AWT-EventQueue-0 DEBUG database.Database (Database.java:72) - Shutting down
+2020-05-10 14:06:54,257 AWT-EventQueue-0 INFO  ui.MainFrame (MainFrame.java:87) - Books2 has stopped
